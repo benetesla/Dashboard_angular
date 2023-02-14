@@ -17,7 +17,8 @@ Dashboard with angular js.
 **Front-end:** HTML CSS TYPESCRIPT
 
 
-
+# Deploy da aplicacao
+![Captura de Tela (49)](https://user-images.githubusercontent.com/78994881/218837000-7efcf520-8635-4084-86ca-2f5c98f2fc58.png)
 
 ## Variáveis de Ambiente
 
